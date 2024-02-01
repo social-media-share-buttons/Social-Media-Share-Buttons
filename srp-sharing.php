@@ -4,7 +4,7 @@
 Plugin Name: Social Media Share Buttons
 Plugin URI: https://newsindiabulletin.com/
 Description: #1 Fast Loading Social Media Sharing Buttons, no need JavaScript and jQuery.
-Author: SRA
+Author: SRP
 Author URI: https://newsindiabulletin.com/
 Version: 2.0.1
 License: GPLv2 or later
